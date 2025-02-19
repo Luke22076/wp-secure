@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Secure Login
-Plugin URI: https://deine-website.com/secure-login
-Description: Ein Sicherheitsplugin, das Login-Versuche schützt, 2FA hinzufügt, Captcha verwendet und IP-Blockierung bietet.
+Plugin URI: https://github.com/Luke22076/wp-secure/
+Description: A security plugin that protects login attempts, adds 2FA, uses Captcha, and provides IP blocking.
 Version: 1.1
 Author: Luvus
-Author URI: https://deine-website.com
+Author URI: https://github.com/Luke22076/
 License: MIT
 */
 
