@@ -1,7 +1,7 @@
 # Secure Login Plugin for WordPress
 
 **Plugin Name:** Secure Login  
-**Author:** Your Name  
+**Author:** Luvus 
 **Version:** 1.1  
 **License:** MIT
 
